@@ -17,7 +17,7 @@ function Feedback() {
   return (
     <React.Fragment>
       <div className="feedback__container">
-        <h1>Feedback - Form</h1>
+        <h1>Employee Feedback Form</h1>
         <form action="" onSubmit={submitHandler}>
 
           <div className="input__container">
